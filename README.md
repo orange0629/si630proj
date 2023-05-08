@@ -1,5 +1,4 @@
-# SI630 Course Project
-# Tourist Destination Introduction Generation Language Model from Tourist Reviews based on Fine-tuned Flan-T5
+# SI630 Course Project (Tourist Destination Introduction Generation Language Model from Tourist Reviews based on Fine-tuned Flan-T5)
 For more detail, please look at the [Project Report](SI630_Project_Report_leczhang.pdf).
 
 ## Abstract
